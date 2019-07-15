@@ -7,7 +7,7 @@
 # <bitbar.author>Hima Tammineedi</bitbar.author>
 # <bitbar.author.github>himat</bitbar.author.github>
 # <bitbar.desc>Display with various timezones in the drop-down menu</bitbar.desc>
-# <bitbar.image>https://cloud.githubusercontent.com. TODO*********</bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/himat/BitBar-Plugins/master/images/timezones.png</bitbar.image>
 
 echo ":watch:" # Menu bar will show a watch emoji
 echo '---' # Lines below will appear in dropdown
